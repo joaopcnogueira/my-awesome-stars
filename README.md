@@ -36,16 +36,7 @@
 - [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
 - [svpino/ml.school](https://github.com/svpino/ml.school) - Machine Learning School
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
-- [joaopcnogueira/twiplies](https://github.com/joaopcnogueira/twiplies) - Get tweets replies from a user account
-- [joaopcnogueira/meoinfo](https://github.com/joaopcnogueira/meoinfo) - 
-- [joaopcnogueira/mletrics](https://github.com/joaopcnogueira/mletrics) - Machine learning metrics that are not easy to found
-- [joaopcnogueira/pyfipe](https://github.com/joaopcnogueira/pyfipe) - A python package to make requests to fipe api
-- [joaopcnogueira/machine-learning-blog](https://github.com/joaopcnogueira/machine-learning-blog) - A blog about machine learning use cases
-- [joaopcnogueira/tabela-sac](https://github.com/joaopcnogueira/tabela-sac) - Forma Simples de Gerar uma Tabela SAC
-- [joaopcnogueira/talk-to-csv](https://github.com/joaopcnogueira/talk-to-csv) - 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [Sundar0989/XuniVerse](https://github.com/Sundar0989/XuniVerse) - xverse (XuniVerse) is collection of transformers for feature engineering and feature selection
-- [fastai/nbdev_cards](https://github.com/fastai/nbdev_cards) - A sample of how to create a deck of cards lib using nbdev
 - [feature-engine/feature-engine-examples](https://github.com/feature-engine/feature-engine-examples) - 
 - [felipesassi/pyspark-hands-on](https://github.com/felipesassi/pyspark-hands-on) - PySpark course.
 - [enzoampil/fastquant](https://github.com/enzoampil/fastquant) - fastquant — Backtest and optimize your ML trading strategies with only 3 lines of code!
@@ -55,7 +46,6 @@
 - [joaopcnogueira/plotnine-examples](https://github.com/joaopcnogueira/plotnine-examples) - Boilerplate Code for Make Better Pictures in Python with Plotnine
 - [joaopcnogueira/propensao-revenda](https://github.com/joaopcnogueira/propensao-revenda) - 
 - [joaopcnogueira/mlops](https://github.com/joaopcnogueira/mlops) - Learning Flask and MLOps
-- [ericvenarusso/punk_ml](https://github.com/ericvenarusso/punk_ml) - Previsão do IBU de Cervejas
 - [mwburke/population-stability-index](https://github.com/mwburke/population-stability-index) - Python implementation of the population stability index (PSI)
 - [bruno-san/blocker_fraud_company](https://github.com/bruno-san/blocker_fraud_company) - This repository contains the solution for a business case problem with respect to fraud detection.
 - [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook) - Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and causality.
@@ -63,7 +53,6 @@
 - [JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
 - [TeoCalvo/dtona](https://github.com/TeoCalvo/dtona) - 
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
-- [srivatsan88/YouTubeLI](https://github.com/srivatsan88/YouTubeLI) - Github repo to upload demo files of youtube videos and linkedin
 - [dipanjanS/practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 - [firmai/python-business-analytics](https://github.com/firmai/python-business-analytics) - Python solutions to solve practical business problems.
 - [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
@@ -71,7 +60,6 @@
 - [chrisgschon/docker-for-ds](https://github.com/chrisgschon/docker-for-ds) - A practical introduction to Docker for data science
 - [firmai/business-machine-learning](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations (by @firmai)
 - [ericvenarusso/Write-a-Data-Science-Blog-Post](https://github.com/ericvenarusso/Write-a-Data-Science-Blog-Post) - Udacity Data Scientist Nanodegree Project
-- [matheus-asilva/aceleradev-ds](https://github.com/matheus-asilva/aceleradev-ds) - A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
 - [SQLShark/MachineLearningFromModelToProduction](https://github.com/SQLShark/MachineLearningFromModelToProduction) - This repo holds all the content for the Machine Learning training day
 - [croach/statistics-for-hackers](https://github.com/croach/statistics-for-hackers) - A Jupyter notebook to accompany Jake VanderPlas's "Statistics for Hackers" talk from PyCon 2016.
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -79,9 +67,7 @@
 ## Others 
 
 - [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
-- [careertopologies/careertopologies](https://github.com/careertopologies/careertopologies) - Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
-- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [DaveOnData/DataAnalysisWithExcel](https://github.com/DaveOnData/DataAnalysisWithExcel) - GitHub repo for Dave Langer's YouTube tutorials on data analysis with Excel
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 
