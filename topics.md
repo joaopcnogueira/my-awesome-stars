@@ -192,6 +192,7 @@
 
 ## others 
 
+- [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [keredson/wordninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
 - [amira-khan/zipf](https://github.com/amira-khan/zipf) - 
