@@ -33,6 +33,7 @@
 
 ## Jupyter Notebook 
 
+- [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
 - [svpino/ml.school](https://github.com/svpino/ml.school) - Machine Learning School
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [joaopcnogueira/twiplies](https://github.com/joaopcnogueira/twiplies) - Get tweets replies from a user account
