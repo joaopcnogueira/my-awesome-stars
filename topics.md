@@ -8,8 +8,6 @@
 - [ai](#ai)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
-- [awesome](#awesome)
-- [awesome-list](#awesome-list)
 - [chatgpt](#chatgpt)
 - [computer-vision](#computer-vision)
 - [cryptocurrency](#cryptocurrency)
@@ -20,7 +18,6 @@
 - [deep-learning](#deep-learning)
 - [docker](#docker)
 - [finance](#finance)
-- [framework](#framework)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [jupyter-notebook](#jupyter-notebook)
@@ -58,19 +55,10 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 
-## awesome 
-
-- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
-
-## awesome-list 
-
-- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
-
 ## chatgpt 
 
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## computer-vision 
 
@@ -91,7 +79,6 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
-- [matheus-asilva/aceleradev-ds](https://github.com/matheus-asilva/aceleradev-ds) - A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
 
 ## data-science 
 
@@ -107,12 +94,10 @@
 - [feature-engine/feature_engine](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn like functionality
 - [chiphuyen/python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
-- [matheus-asilva/aceleradev-ds](https://github.com/matheus-asilva/aceleradev-ds) - A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
 
 ## data-visualization 
 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
-- [matheus-asilva/aceleradev-ds](https://github.com/matheus-asilva/aceleradev-ds) - A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
 
 ## deep-learning 
 
@@ -129,10 +114,6 @@
 ## finance 
 
 - [firmai/atspy](https://github.com/firmai/atspy) - AtsPy: Automated Time Series Models in Python (by @firmai)
-
-## framework 
-
-- [careertopologies/careertopologies](https://github.com/careertopologies/careertopologies) - Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
 
 ## hacktoberfest 
 
@@ -177,7 +158,6 @@
 - [chiphuyen/python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
 - [firmai/business-machine-learning](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations (by @firmai)
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
-- [matheus-asilva/aceleradev-ds](https://github.com/matheus-asilva/aceleradev-ds) - A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
 
 ## nlp 
 
@@ -192,6 +172,7 @@
 
 ## others 
 
+- [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
 - [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [keredson/wordninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
@@ -201,18 +182,9 @@
 - [svpino/ml.school](https://github.com/svpino/ml.school) - Machine Learning School
 - [straussmaximilian/pandas-ai-streamlit](https://github.com/straussmaximilian/pandas-ai-streamlit) - A streamlit interface for pandas-ai
 - [especializati/curso-de-laravel-10](https://github.com/especializati/curso-de-laravel-10) - Arquivos Curso de Laravel 10.x
-- [joaopcnogueira/twiplies](https://github.com/joaopcnogueira/twiplies) - Get tweets replies from a user account
-- [joaopcnogueira/meoinfo](https://github.com/joaopcnogueira/meoinfo) - 
-- [joaopcnogueira/mletrics](https://github.com/joaopcnogueira/mletrics) - Machine learning metrics that are not easy to found
-- [joaopcnogueira/pyfipe](https://github.com/joaopcnogueira/pyfipe) - A python package to make requests to fipe api
-- [joaopcnogueira/machine-learning-blog](https://github.com/joaopcnogueira/machine-learning-blog) - A blog about machine learning use cases
-- [joaopcnogueira/tabela-sac](https://github.com/joaopcnogueira/tabela-sac) - Forma Simples de Gerar uma Tabela SAC
-- [joaopcnogueira/talk-to-csv](https://github.com/joaopcnogueira/talk-to-csv) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [derar-alhussein/Databricks-Certified-Data-Engineer-Associate](https://github.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate) - The resources of the preparation course for Databricks Data Engineer Associate certification exam
-- [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
 - [Sundar0989/XuniVerse](https://github.com/Sundar0989/XuniVerse) - xverse (XuniVerse) is collection of transformers for feature engineering and feature selection
-- [fastai/nbdev_cards](https://github.com/fastai/nbdev_cards) - A sample of how to create a deck of cards lib using nbdev
 - [feature-engine/feature-engine-examples](https://github.com/feature-engine/feature-engine-examples) - 
 - [rochacbruno/python-base](https://github.com/rochacbruno/python-base) - https://www.linuxtips.io/products/python-base
 - [TeoMeWhy/Dotabricks](https://github.com/TeoMeWhy/Dotabricks) - 
@@ -232,12 +204,10 @@
 - [DanielHe4rt/php4noobs](https://github.com/DanielHe4rt/php4noobs) - Manual de uma possível certificação Zend PHP!
 - [joaopcnogueira/propensao-revenda](https://github.com/joaopcnogueira/propensao-revenda) - 
 - [joaopcnogueira/mlops](https://github.com/joaopcnogueira/mlops) - Learning Flask and MLOps
-- [ericvenarusso/punk_ml](https://github.com/ericvenarusso/punk_ml) - Previsão do IBU de Cervejas
 - [mwburke/population-stability-index](https://github.com/mwburke/population-stability-index) - Python implementation of the population stability index (PSI)
 - [bruno-san/blocker_fraud_company](https://github.com/bruno-san/blocker_fraud_company) - This repository contains the solution for a business case problem with respect to fraud detection.
 - [opertifelipe/covid19](https://github.com/opertifelipe/covid19) - Covid19 app and model
 - [TeoCalvo/dtona](https://github.com/TeoCalvo/dtona) - 
-- [srivatsan88/YouTubeLI](https://github.com/srivatsan88/YouTubeLI) - Github repo to upload demo files of youtube videos and linkedin
 - [tidymodels/workflows](https://github.com/tidymodels/workflows) - Modeling Workflows
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [tmobile/r-tensorflow-api](https://github.com/tmobile/r-tensorflow-api) - A small Docker container for using R and TensorFlow as an enterprise API
