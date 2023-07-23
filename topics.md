@@ -178,7 +178,7 @@
 - [keredson/wordninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
 - [amira-khan/zipf](https://github.com/amira-khan/zipf) - 
 - [storborg/python-packaging](https://github.com/storborg/python-packaging) - Tutorial on how to structure Python packages
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [svpino/ml.school](https://github.com/svpino/ml.school) - Machine Learning School
 - [straussmaximilian/pandas-ai-streamlit](https://github.com/straussmaximilian/pandas-ai-streamlit) - A streamlit interface for pandas-ai
 - [especializati/curso-de-laravel-10](https://github.com/especializati/curso-de-laravel-10) - Arquivos Curso de Laravel 10.x
