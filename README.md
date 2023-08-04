@@ -66,6 +66,7 @@
 
 ## Others 
 
+- [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [DaveOnData/DataAnalysisWithExcel](https://github.com/DaveOnData/DataAnalysisWithExcel) - GitHub repo for Dave Langer's YouTube tutorials on data analysis with Excel
@@ -80,6 +81,7 @@
 
 ## Python 
 
+- [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [keredson/wordninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
