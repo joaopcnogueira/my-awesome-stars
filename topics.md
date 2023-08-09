@@ -174,6 +174,8 @@
 
 ## others 
 
+- [TarcisioBalbi/Exemplo_Optuna](https://github.com/TarcisioBalbi/Exemplo_Optuna) - Repositório com um exemplo prático de utilização do pacote Optuna para otimização de parâmetros de modelagem.
+- [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
 - [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
