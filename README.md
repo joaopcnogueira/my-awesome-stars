@@ -93,7 +93,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [iusztinpaul/energy-forecasting](https://github.com/iusztinpaul/energy-forecasting) - 🌀 𝗧𝗵𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝟳-𝗦𝘁𝗲𝗽𝘀 𝗠𝗟𝗢𝗽𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 | Learn MLE & MLOps for free by designing, building and deploying an end-to-end ML batch system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 2.5 𝘩𝘰𝘶𝘳𝘴 𝘰𝘧 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 & 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 - [straussmaximilian/pandas-ai-streamlit](https://github.com/straussmaximilian/pandas-ai-streamlit) - A streamlit interface for pandas-ai
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
