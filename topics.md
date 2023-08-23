@@ -76,7 +76,7 @@
 ## data-analysis 
 
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
-- [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
+- [has2k1/plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
 - [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
@@ -147,6 +147,7 @@
 
 ## machine-learning 
 
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
 - [enzoampil/fastquant](https://github.com/enzoampil/fastquant) - fastquant — Backtest and optimize your ML trading strategies with only 3 lines of code!
 - [NicolasHug/Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
@@ -250,7 +251,7 @@
 - [tharlesamaro/fastapi-doc-http-response](https://github.com/tharlesamaro/fastapi-doc-http-response) - A Python package to facilitate the definition of default HTTP responses for FastAPI APIs. With this package, it is possible to easily create default responses for the most common HTTP status codes.
 - [rochacbruno/fastapi-workshop](https://github.com/rochacbruno/fastapi-workshop) - Material do workshop - Criando API com FastAPI da LINUXtips
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
-- [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
+- [has2k1/plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [firmai/atspy](https://github.com/firmai/atspy) - AtsPy: Automated Time Series Models in Python (by @firmai)
