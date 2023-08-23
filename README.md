@@ -33,6 +33,7 @@
 
 ## Jupyter Notebook 
 
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [TarcisioBalbi/Exemplo_Optuna](https://github.com/TarcisioBalbi/Exemplo_Optuna) - Repositório com um exemplo prático de utilização do pacote Optuna para otimização de parâmetros de modelagem.
 - [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
 - [svpino/ml.school](https://github.com/svpino/ml.school) - Machine Learning School
@@ -112,7 +113,7 @@
 - [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social med
 - [joaopcnogueira/fastapi-crud-alembic-mysql](https://github.com/joaopcnogueira/fastapi-crud-alembic-mysql) - 
 - [NicolasHug/Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
-- [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
+- [has2k1/plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
