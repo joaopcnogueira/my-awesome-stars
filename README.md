@@ -84,6 +84,7 @@
 
 ## Python 
 
+- [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
