@@ -175,6 +175,7 @@
 
 ## others 
 
+- [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - 
 - [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
 - [TarcisioBalbi/Exemplo_Optuna](https://github.com/TarcisioBalbi/Exemplo_Optuna) - Repositório com um exemplo prático de utilização do pacote Optuna para otimização de parâmetros de modelagem.
 - [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
