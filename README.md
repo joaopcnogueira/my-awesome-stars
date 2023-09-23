@@ -27,7 +27,7 @@
 
 ## JavaScript 
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [rennancockles/PontoFreela](https://github.com/rennancockles/PontoFreela) - Controle de Ponto para Freelas
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [kayschulz/travel_destination_recommendation](https://github.com/kayschulz/travel_destination_recommendation) - A cold start recommender system for European travel destinations.
