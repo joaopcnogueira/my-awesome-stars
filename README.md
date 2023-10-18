@@ -85,6 +85,7 @@
 
 ## Python 
 
+- [business-science/pytimetk](https://github.com/business-science/pytimetk) - The time series toolkit for python.
 - [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - 
 - [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
