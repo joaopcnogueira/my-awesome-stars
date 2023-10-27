@@ -176,7 +176,7 @@
 
 ## others 
 
-- [business-science/pytimetk](https://github.com/business-science/pytimetk) - The time series toolkit for python.
+- [business-science/pytimetk](https://github.com/business-science/pytimetk) - Time series easier, faster, more fun. Pytimetk.
 - [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - 
 - [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
 - [TarcisioBalbi/Exemplo_Optuna](https://github.com/TarcisioBalbi/Exemplo_Optuna) - Repositório com um exemplo prático de utilização do pacote Optuna para otimização de parâmetros de modelagem.
