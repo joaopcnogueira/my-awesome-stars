@@ -52,7 +52,7 @@
 
 ## artificial-intelligence 
 
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 
@@ -102,7 +102,7 @@
 
 ## deep-learning 
 
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [dipanjanS/practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
