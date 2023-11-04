@@ -85,6 +85,7 @@
 
 ## Python 
 
+- [TeoMeWhy/olist-ml-models](https://github.com/TeoMeWhy/olist-ml-models) - Projeto de Machine Learning do início ao fim no contexto de um e-commerce
 - [business-science/pytimetk](https://github.com/business-science/pytimetk) - Time series easier, faster, more fun. Pytimetk.
 - [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - 
 - [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
