@@ -109,7 +109,7 @@
 
 ## docker 
 
-- [iusztinpaul/energy-forecasting](https://github.com/iusztinpaul/energy-forecasting) - 🌀 𝗧𝗵𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝟳-𝗦𝘁𝗲𝗽𝘀 𝗠𝗟𝗢𝗽𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 | Learn MLE & MLOps for free by designing, building and deploying an end-to-end ML batch system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 2.5 𝘩𝘰𝘶𝘳𝘴 𝘰𝘧 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 & 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
+- [iusztinpaul/energy-forecasting](https://github.com/iusztinpaul/energy-forecasting) - 🌀 𝗧𝗵𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝟳-𝗦𝘁𝗲𝗽𝘀 𝗠𝗟𝗢𝗽𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 | 𝗟𝗲𝗮𝗿𝗻 𝗠𝗟𝗘 & 𝗠𝗟𝗢𝗽𝘀 for free by designing, building and deploying an end-to-end ML batch system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 2.5 𝘩𝘰𝘶𝘳𝘴 𝘰𝘧 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 & 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 
 ## finance 
@@ -248,7 +248,7 @@
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [iusztinpaul/energy-forecasting](https://github.com/iusztinpaul/energy-forecasting) - 🌀 𝗧𝗵𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝟳-𝗦𝘁𝗲𝗽𝘀 𝗠𝗟𝗢𝗽𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 | Learn MLE & MLOps for free by designing, building and deploying an end-to-end ML batch system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 2.5 𝘩𝘰𝘶𝘳𝘴 𝘰𝘧 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 & 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
+- [iusztinpaul/energy-forecasting](https://github.com/iusztinpaul/energy-forecasting) - 🌀 𝗧𝗵𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝟳-𝗦𝘁𝗲𝗽𝘀 𝗠𝗟𝗢𝗽𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 | 𝗟𝗲𝗮𝗿𝗻 𝗠𝗟𝗘 & 𝗠𝗟𝗢𝗽𝘀 for free by designing, building and deploying an end-to-end ML batch system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 2.5 𝘩𝘰𝘶𝘳𝘴 𝘰𝘧 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 & 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
