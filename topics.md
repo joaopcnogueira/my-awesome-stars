@@ -42,7 +42,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [yvann-ba/Robby-chatbot](https://github.com/yvann-ba/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
 
@@ -53,7 +53,7 @@
 ## artificial-intelligence 
 
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 
 ## chatgpt 
@@ -250,7 +250,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [iusztinpaul/energy-forecasting](https://github.com/iusztinpaul/energy-forecasting) - 🌀 𝗧𝗵𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝟳-𝗦𝘁𝗲𝗽𝘀 𝗠𝗟𝗢𝗽𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 | 𝗟𝗲𝗮𝗿𝗻 𝗠𝗟𝗘 & 𝗠𝗟𝗢𝗽𝘀 for free by designing, building and deploying an end-to-end ML batch system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 2.5 𝘩𝘰𝘶𝘳𝘴 𝘰𝘧 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 & 𝘷𝘪𝘥𝘦𝘰 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [mkhorasani/Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator) - A secure authentication module to validate user credentials in a Streamlit application.
 - [tharlesamaro/fastapi-doc-http-response](https://github.com/tharlesamaro/fastapi-doc-http-response) - A Python package to facilitate the definition of default HTTP responses for FastAPI APIs. With this package, it is possible to easily create default responses for the most common HTTP status codes.
