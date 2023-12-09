@@ -102,6 +102,7 @@
 
 ## deep-learning 
 
+- [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -148,6 +149,7 @@
 
 ## machine-learning 
 
+- [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
 - [enzoampil/fastquant](https://github.com/enzoampil/fastquant) - fastquant — Backtest and optimize your ML trading strategies with only 3 lines of code!
