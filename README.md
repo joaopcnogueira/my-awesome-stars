@@ -88,7 +88,7 @@
 - [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
 - [TeoMeWhy/olist-ml-models](https://github.com/TeoMeWhy/olist-ml-models) - Projeto de Machine Learning do início ao fim no contexto de um e-commerce
 - [business-science/pytimetk](https://github.com/business-science/pytimetk) - Time series easier, faster, more fun. Pytimetk.
-- [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - 
+- [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - A Data Enginner project from How Bootcamp
 - [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
