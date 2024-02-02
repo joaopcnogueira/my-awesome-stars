@@ -182,7 +182,7 @@
 
 - [TeoMeWhy/olist-ml-models](https://github.com/TeoMeWhy/olist-ml-models) - Projeto de Machine Learning do início ao fim no contexto de um e-commerce
 - [business-science/pytimetk](https://github.com/business-science/pytimetk) - Time series easier, faster, more fun. Pytimetk.
-- [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - 
+- [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - A Data Enginner project from How Bootcamp
 - [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
 - [TarcisioBalbi/Exemplo_Optuna](https://github.com/TarcisioBalbi/Exemplo_Optuna) - Repositório com um exemplo prático de utilização do pacote Optuna para otimização de parâmetros de modelagem.
 - [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
