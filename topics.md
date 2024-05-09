@@ -25,6 +25,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [laravel](#laravel)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [machine-learning](#machine-learning)
 - [natural-language-processing](#natural-language-processing)
@@ -156,6 +157,11 @@
 ## linux 
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+## llm 
+
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
 
 ## localization 
 
