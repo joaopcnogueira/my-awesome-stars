@@ -35,6 +35,7 @@
 - [php](#php)
 - [python](#python)
 - [python3](#python3)
+- [quantitative-finance](#quantitative-finance)
 - [scikit-learn](#scikit-learn)
 - [sql](#sql)
 - [statistics](#statistics)
@@ -302,6 +303,10 @@
 ## python3 
 
 - [chiphuyen/python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
+
+## quantitative-finance 
+
+- [enzoampil/fastquant](https://github.com/enzoampil/fastquant) - fastquant — Backtest and optimize your ML trading strategies with only 3 lines of code!
 
 ## scikit-learn 
 
