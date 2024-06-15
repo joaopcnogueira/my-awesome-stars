@@ -227,7 +227,6 @@
 - [Sundar0989/XuniVerse](https://github.com/Sundar0989/XuniVerse) - xverse (XuniVerse) is collection of transformers for feature engineering and feature selection
 - [feature-engine/feature-engine-examples](https://github.com/feature-engine/feature-engine-examples) - 
 - [rochacbruno/python-base](https://github.com/rochacbruno/python-base) - https://www.linuxtips.io/products/python-base
-- [TeoMeWhy/Dotabricks](https://github.com/TeoMeWhy/Dotabricks) - 
 - [alexandrecardososantos/webscraping_books_case](https://github.com/alexandrecardososantos/webscraping_books_case) - The goal is to web scrap a website and load the data in to a SQL server where users can access.
 - [felipesassi/pyspark-hands-on](https://github.com/felipesassi/pyspark-hands-on) - PySpark course.
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
