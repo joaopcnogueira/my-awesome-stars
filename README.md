@@ -112,7 +112,6 @@
 - [rochacbruno/fastapi-workshop](https://github.com/rochacbruno/fastapi-workshop) - Material do workshop - Criando API com FastAPI da LINUXtips
 - [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
 - [rochacbruno/python-base](https://github.com/rochacbruno/python-base) - https://www.linuxtips.io/products/python-base
-- [TeoMeWhy/Dotabricks](https://github.com/TeoMeWhy/Dotabricks) - 
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
 - [alexandrecardososantos/webscraping_books_case](https://github.com/alexandrecardososantos/webscraping_books_case) - The goal is to web scrap a website and load the data in to a SQL server where users can access.
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
