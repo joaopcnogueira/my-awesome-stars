@@ -9,6 +9,7 @@
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [computer-vision](#computer-vision)
 - [cryptocurrency](#cryptocurrency)
@@ -65,6 +66,10 @@
 ## awesome 
 
 - [faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) - 🏅 Collection of Kaggle Solutions and Ideas 🏅
+
+## chatbot 
+
+- [yvann-ba/Robby-chatbot](https://github.com/yvann-ba/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
 
 ## chatgpt 
 
