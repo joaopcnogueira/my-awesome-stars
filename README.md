@@ -34,6 +34,8 @@
 
 ## Jupyter Notebook 
 
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
+- [langchain-ai/langchain-academy](https://github.com/langchain-ai/langchain-academy) - 
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [TarcisioBalbi/Exemplo_Optuna](https://github.com/TarcisioBalbi/Exemplo_Optuna) - Repositório com um exemplo prático de utilização do pacote Optuna para otimização de parâmetros de modelagem.
 - [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
@@ -69,6 +71,7 @@
 
 ## Others 
 
+- [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai) - A curated list of open-source projects built by the CrewAI community. Discover, contribute, and extend the possibilities of AI agents with CrewAI.
 - [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
@@ -85,6 +88,8 @@
 
 ## Python 
 
+- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
 - [TeoMeWhy/olist-ml-models](https://github.com/TeoMeWhy/olist-ml-models) - Projeto de Machine Learning do início ao fim no contexto de um e-commerce
 - [business-science/pytimetk](https://github.com/business-science/pytimetk) - Time series easier, faster, more fun. Pytimetk.
