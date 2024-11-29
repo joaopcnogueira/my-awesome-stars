@@ -75,7 +75,6 @@
 - [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [DaveOnData/DataAnalysisWithExcel](https://github.com/DaveOnData/DataAnalysisWithExcel) - GitHub repo for Dave Langer's YouTube tutorials on data analysis with Excel
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 
@@ -120,6 +119,7 @@
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
 - [alexandrecardososantos/webscraping_books_case](https://github.com/alexandrecardososantos/webscraping_books_case) - The goal is to web scrap a website and load the data in to a SQL server where users can access.
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social med
 - [joaopcnogueira/fastapi-crud-alembic-mysql](https://github.com/joaopcnogueira/fastapi-crud-alembic-mysql) - 
 - [NicolasHug/Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
