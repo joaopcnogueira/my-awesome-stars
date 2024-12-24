@@ -260,7 +260,7 @@
 - [joaopcnogueira/plotnine-examples](https://github.com/joaopcnogueira/plotnine-examples) - Boilerplate Code for Make Better Pictures in Python with Plotnine
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [rafjaa/LeIA](https://github.com/rafjaa/LeIA) - LeIA (Léxico para Inferência Adaptada) é um fork do léxico e ferramenta para análise de sentimentos VADER (Valence Aware Dictionary and sEntiment Reasoner) adaptado para textos em português.
-- [DanielHe4rt/php4noobs](https://github.com/DanielHe4rt/php4noobs) - Manual de uma possível certificação Zend PHP!
+- [danielhe4rt/php4noobs](https://github.com/danielhe4rt/php4noobs) - Manual de uma possível certificação Zend PHP!
 - [joaopcnogueira/propensao-revenda](https://github.com/joaopcnogueira/propensao-revenda) - 
 - [joaopcnogueira/mlops](https://github.com/joaopcnogueira/mlops) - Learning Flask and MLOps
 - [mwburke/population-stability-index](https://github.com/mwburke/population-stability-index) - Python implementation of the population stability index (PSI)
