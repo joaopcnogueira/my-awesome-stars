@@ -82,7 +82,7 @@
 
 - [especializati/curso-de-laravel-10](https://github.com/especializati/curso-de-laravel-10) - Arquivos Curso de Laravel 10.x
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - Easy AdminLTE integration with Laravel
-- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Buy me a coffe: https://www.buymeacoffee.com/lucasrocha
+- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Quero café: https://www.buymeacoffee.com/lucasrocha
 - [danielhe4rt/php4noobs](https://github.com/danielhe4rt/php4noobs) - Manual de uma possível certificação Zend PHP!
 
 ## Python 
