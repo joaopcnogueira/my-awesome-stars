@@ -162,7 +162,7 @@
 ## laravel 
 
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - Easy AdminLTE integration with Laravel
-- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Buy me a coffe: https://www.buymeacoffee.com/lucasrocha
+- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Quero café: https://www.buymeacoffee.com/lucasrocha
 
 ## linux 
 
@@ -176,7 +176,7 @@
 
 ## localization 
 
-- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Buy me a coffe: https://www.buymeacoffee.com/lucasrocha
+- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Quero café: https://www.buymeacoffee.com/lucasrocha
 
 ## machine-learning 
 
@@ -290,7 +290,7 @@
 
 ## php 
 
-- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Buy me a coffe: https://www.buymeacoffee.com/lucasrocha
+- [lucascudo/laravel-pt-BR-localization](https://github.com/lucascudo/laravel-pt-BR-localization) - Tradução do Laravel para português brasileiro (pt-BR locale). Quero café: https://www.buymeacoffee.com/lucasrocha
 
 ## python 
 
