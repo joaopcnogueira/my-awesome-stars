@@ -62,7 +62,7 @@
 
 ## artificial-intelligence 
 
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 
@@ -128,7 +128,7 @@
 ## deep-learning 
 
 - [interpretml/DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [dipanjanS/practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
@@ -199,7 +199,7 @@
 
 ## natural-language-processing 
 
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [dipanjanS/practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 
@@ -224,6 +224,7 @@
 
 ## others 
 
+- [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai) - A curated list of open-source projects built by the CrewAI community. Discover, contribute, and extend the possibilities of AI agents with CrewAI.
 - [langchain-ai/langchain-academy](https://github.com/langchain-ai/langchain-academy) - 
@@ -232,7 +233,6 @@
 - [joaopcnogueira/how_fake_accounts](https://github.com/joaopcnogueira/how_fake_accounts) - A Data Enginner project from How Bootcamp
 - [maritaca-ai/maritalk-api](https://github.com/maritaca-ai/maritalk-api) - Code and documentation for the MariTalk API
 - [TarcisioBalbi/Exemplo_Optuna](https://github.com/TarcisioBalbi/Exemplo_Optuna) - Repositório com um exemplo prático de utilização do pacote Optuna para otimização de parâmetros de modelagem.
-- [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
 - [alfredodeza/python-and-rust-tools](https://github.com/alfredodeza/python-and-rust-tools) - Introduction to Command-line tools with Python and Rust
 - [henriquefb/AprendaExcelUsandoExcel](https://github.com/henriquefb/AprendaExcelUsandoExcel) - Curso de Excel Grátis Usando Excel
 - [logicalclocks/hopsworks-tutorials](https://github.com/logicalclocks/hopsworks-tutorials) - Tutorials for the Hopsworks Platform
