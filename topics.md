@@ -224,6 +224,10 @@
 
 ## others 
 
+- [joaopcnogueira/tabela-sac](https://github.com/joaopcnogueira/tabela-sac) - Forma Simples de Gerar uma Tabela SAC
+- [joaopcnogueira/lipandas](https://github.com/joaopcnogueira/lipandas) - Load in Ipython Pandas: load a CSV file into a Pandas DataFrame and open it in IPython.
+- [joaopcnogueira/qualmeuip](https://github.com/joaopcnogueira/qualmeuip) - 
+- [joaopcnogueira/howmanyweeks](https://github.com/joaopcnogueira/howmanyweeks) - 
 - [joaopcnogueira/python-environment-setup](https://github.com/joaopcnogueira/python-environment-setup) - A minimal python environment setup for data projects
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai) - A curated list of open-source projects built by the CrewAI community. Discover, contribute, and extend the possibilities of AI agents with CrewAI.
