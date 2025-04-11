@@ -19,6 +19,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [development](#development)
 - [docker](#docker)
 - [finance](#finance)
 - [hacktoberfest](#hacktoberfest)
@@ -132,6 +133,10 @@
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [dipanjanS/practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
+
+## development 
+
+- [tharlesamaro/fastapi-doc-http-response](https://github.com/tharlesamaro/fastapi-doc-http-response) - A Python package to facilitate the definition of default HTTP responses for FastAPI APIs. With this package, it is possible to easily create default responses for the most common HTTP status codes.
 
 ## docker 
 
