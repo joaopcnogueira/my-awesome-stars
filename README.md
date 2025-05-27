@@ -118,7 +118,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [derar-alhussein/Databricks-Certified-Data-Engineer-Associate](https://github.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate) - The resources of the preparation course for Databricks Data Engineer Associate certification exam
 - [rochacbruno/fastapi-workshop](https://github.com/rochacbruno/fastapi-workshop) - Material do workshop - Criando API com FastAPI da LINUXtips
-- [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
+- [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [rochacbruno/python-base](https://github.com/rochacbruno/python-base) - https://www.linuxtips.io/products/python-base
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
 - [alexandrecardososantos/webscraping_books_case](https://github.com/alexandrecardososantos/webscraping_books_case) - The goal is to web scrap a website and load the data in to a SQL server where users can access.
