@@ -15,6 +15,7 @@
 - [cryptocurrency](#cryptocurrency)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -102,6 +103,10 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
+
+## data-engineering 
+
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 
 ## data-science 
 
@@ -265,7 +270,6 @@
 - [rochacbruno/python-base](https://github.com/rochacbruno/python-base) - https://www.linuxtips.io/products/python-base
 - [alexandrecardososantos/webscraping_books_case](https://github.com/alexandrecardososantos/webscraping_books_case) - The goal is to web scrap a website and load the data in to a SQL server where users can access.
 - [felipesassi/pyspark-hands-on](https://github.com/felipesassi/pyspark-hands-on) - PySpark course.
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [zangell44/survival-analysis-lifeline-basics](https://github.com/zangell44/survival-analysis-lifeline-basics) - An example showing how survival analysis can be used in a business context
 - [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social med
 - [rennancockles/PontoFreela](https://github.com/rennancockles/PontoFreela) - Controle de Ponto para Freelas
